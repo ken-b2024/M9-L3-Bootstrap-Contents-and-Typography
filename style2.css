@@ -1,4 +1,3 @@
-
 img {
     /* margin: 35px; */
     background-color: darkgrey;
@@ -8,7 +7,7 @@ img {
 img:hover {
     background-color: darkmagenta;
     border: black solid 2px;
-    width: 26%;
+    width: 25.5%;
 }
 footer {
     position: relative;
