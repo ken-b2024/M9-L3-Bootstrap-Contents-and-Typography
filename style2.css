@@ -1,0 +1,16 @@
+
+img {
+    /* margin: 35px; */
+    background-color: darkgrey;
+    padding: 9px;
+    transition: background-color 1s;
+}
+img:hover {
+    background-color: darkmagenta;
+    border: black solid 2px;
+    width: 26%;
+}
+footer {
+    position: relative;
+    top: 620px;
+}
